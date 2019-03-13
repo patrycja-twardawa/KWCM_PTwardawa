@@ -14,7 +14,7 @@
 int main()
 {
 #ifdef USE_TRIGONOMETRY_DEGREE
-	double s = degreemath::Sin(90.0);
+	double s = degreemath::Sin(45.0);
 	double c = degreemath::Cos(0.0);
 	double t = degreemath::Tan(45.0);
 	double n = degreemath::Ctn(45.0);
